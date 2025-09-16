@@ -10,3 +10,4 @@ python-dotenv
 wrds
 scipy
 statsmodels
+plotly
